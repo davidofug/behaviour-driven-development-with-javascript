@@ -5,21 +5,21 @@ Producing system documentation that guides development and is automatically chec
 
 Doing BDD involves three practices which are (1) **Discovery**, (2) **Formulation** and (3) **Automation**. Overtime the documented examples become an asset documentation also known as the Living documentation.
 
-Cucumber is of the tools used to do *BDD*
+Cucumber is one of the tools used to do *BDD*
 
 ## Discovery
 
 At the discovery stage is a meeting among a minimum of 3 stakeholders, the *Product Owner*, *Developer* and *Tester*. The goal is to get three perspectives, and that means each from the person attending the meeting.
 This helps to determine how well we understand the project. At this stage you write a lot of examples and ask a lot of what if questions.
 
-## Get started.
+## Get started
 
 1. Initilize npm project `$npm init -y`
 2. Install the required packages
 
 ## Required packages from npm
 
-Use the command `$npm i -D cucumber cucumber-pretty hamjest` which will install the packages as developer depencies. The following packages below will be installed.
+Use the command `$npm i -D cucumber cucumber-pretty hamjest` which will install the packages as development depencies. The packages below will be installed.
 
 1. cucumber 
 2. cucumber-pretty 
