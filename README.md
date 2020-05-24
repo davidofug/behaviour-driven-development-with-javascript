@@ -1,6 +1,6 @@
 # Behaviour Driven Development in JavaScript by 
 
-In Agile projects, BDD follows 3 stages, (1) **Discovery**, (2) **Formulation** and (3) **Automation**.
+In Agile projects, BDD is made up of 3 stages, (1) **Discovery**, (2) **Formulation** and (3) **Automation**.
 
 ## Discovery
 
@@ -8,10 +8,12 @@ At the discovery stage is a meeting among a minimum of 3 stakeholders, the *Prod
 This helps to determine how well we understand the project. At this stage you write a lot of examples and ask a lot of what if questions.
 
 ## Get started.
+
 1. Initilize npm project `$npm init -y`
-2. Install required packages
+2. Install the required packages
 
 ## Required packages from npm
+
 Use the command `$npm i -D cucumber cucumber-pretty hamjest` which will install the packages as developer depencies. The following packages below will be installed.
 
 1. cucumber 
@@ -19,6 +21,7 @@ Use the command `$npm i -D cucumber cucumber-pretty hamjest` which will install 
 3. hamjest (It is for TDD assertions)
 
 ## Optional VSCode editor extensions
+
 - Cucumber 
 - Gherkins indent
 
