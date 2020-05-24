@@ -1,9 +1,11 @@
 # Behaviour Driven Development in JavaScript
-This is the way for software teams to work that closes the gap between technical people (Software Teams) and Business Teams by encouraging collaboration across the roles to build a shared understanding of desired behaviour of the system.
 
-Doing BDD involves doing three basic things repeatively which are (1) **Discovery**, (2) **Formulation** and (3) **Automation**. Overtime the documented examples become an asset documentation also known as the Living documentation.
+This is the way for software teams to work that closes the gap between technical people and business people; by Encouraging collaboration across the roles to build a shared understanding of desired behaviour of the system.
+Producing system documentation that guides development and is automatically checked against the system's behaviour.
 
-Cucumber is the tool that facilitates *BDD*
+Doing BDD involves three practices which are (1) **Discovery**, (2) **Formulation** and (3) **Automation**. Overtime the documented examples become an asset documentation also known as the Living documentation.
+
+Cucumber is of the tools used to do *BDD*
 
 ## Discovery
 
