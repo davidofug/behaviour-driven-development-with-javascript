@@ -1,6 +1,11 @@
-# Behaviour Driven Development in JavaScript
+# Behaviour Driven Development in JavaScript by 
 
-Presented by [cucumber.io](https://cucumber.io/courses/collection)
+In Agile projects, BDD follows 3 stages, (1) **Discovery**, (2) **Formulation** and (3) **Automation**.
+
+## Discovery
+
+At the discovery stage is a meeting among a minimum of 3 stakeholders, mostly the *Product Owner*, *Developer* and *Tester* because the aim is to get the three perspectives each from the person attending the meeting.
+This helps discover how well you understand the project. At this stage you write a lot of examples and ask a lot of what if questions.
 
 ## Get started.
 1. Initilize npm project `$npm init -y`
@@ -21,7 +26,7 @@ Use the command `$npm i -D cucumber cucumber-pretty hamjest` which will install 
 
 1. In the project directory, create a directory called features i.e. `$mkdir features`. This will be home to the features files.
 2. Create the feature file. For example: `$touch feature/hear_shout.feature`. Even we used CLI to do this, you may do it in any simple way you like. I prefer this method because I don't have to keep moving back and forth on the keyboard and mouse.
-3. Open the file write our Gherkins. Like below.
+3. Open the file hear_shout.feature and write your Gherkin code. Remember Gherkin is understand by all .i.e. the business people and developers.
 
 ```
 Feature: Hear shout
@@ -30,3 +35,6 @@ Feature: Hear shout
         When Sean shouts "free bagel at Sean's"
         Then Lucy hears Sean's message
 ```
+
+Thanks,
+[cucumber.io](https://cucumber.io/courses/collection)
