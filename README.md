@@ -4,8 +4,8 @@ In Agile projects, BDD follows 3 stages, (1) **Discovery**, (2) **Formulation** 
 
 ## Discovery
 
-At the discovery stage is a meeting among a minimum of 3 stakeholders, mostly the *Product Owner*, *Developer* and *Tester* because the aim is to get the three perspectives each from the person attending the meeting.
-This helps discover how well you understand the project. At this stage you write a lot of examples and ask a lot of what if questions.
+At the discovery stage is a meeting among a minimum of 3 stakeholders, the *Product Owner*, *Developer* and *Tester*. The goal is to get three perspectives, and that means each from the person attending the meeting.
+This helps to determine how well we understand the project. At this stage you write a lot of examples and ask a lot of what if questions.
 
 ## Get started.
 1. Initilize npm project `$npm init -y`
