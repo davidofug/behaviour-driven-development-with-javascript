@@ -32,6 +32,13 @@ Use the command `$npm i -D cucumber cucumber-pretty hamjest` which will install 
 
 ## Writing in Gherkins
 
+Gherkins is a language that follows a simple syntax that is readable by anybody.
+
+The syntax is **Given/When/Then**
+
+Where Given describes the context, When describes the action and Then describes the outcome from the scenario.
+Other Gherkins keywords are **Feature, Scenario** and **And**.
+
 1. In the project directory, create a directory called features i.e. `$mkdir features`. This will be home to the features files.
 2. Create the feature file. For example: `$touch feature/hear_shout.feature`. Even we used CLI to do this, you may do it in any simple way you like. I prefer this method because I don't have to keep moving back and forth on the keyboard and mouse.
 3. Open the file hear_shout.feature and write your Gherkin code. Remember Gherkin is understand by all .i.e. the business people and developers.
