@@ -1,6 +1,7 @@
-# Behaviour Driven Development in JavaScript by 
+# Behaviour Driven Development in JavaScript
+This is the way for software teams to work that closes the way Software Teams and Business Team by encouraging collaboration across the roles to build a shared understanding of desired behaviour of the system.
 
-In Agile projects, BDD is made up of 3 stages, (1) **Discovery**, (2) **Formulation** and (3) **Automation**.
+Doing BDD involves doing three basic things repeatively which are (1) **Discovery**, (2) **Formulation** and (3) **Automation**. Overtime the documented examples become an asset documentation also known as the Living documentation.
 
 ## Discovery
 
